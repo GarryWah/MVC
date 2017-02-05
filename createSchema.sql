@@ -1,2 +1,1 @@
-CREATE SCHEMA `test` ;CREATE SCHEMA `test` ;
-
+CREATE SCHEMA `test`;
