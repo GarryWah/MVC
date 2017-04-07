@@ -1,3 +1,5 @@
+Тестове завдання для джавараш. Простий CRUD, cтек технологій Maven/ Spring/ Security/ JPA(Hibernate)/Bootstrap(CSS)
+
 # MVC
 javarush test
 Скрипт для создания схемы в файле createSchema.sql. Далее деплой! хибернейт создаст все что нужно. Потом запуск скрипта
